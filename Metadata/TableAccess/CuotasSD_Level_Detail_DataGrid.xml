@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="CuotasSD_Level_Detail_DataGrid">
+  <Table name="PCPlanPago" />
+</Dependencies>

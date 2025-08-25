@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.sdplusbaseobjects.sdpwebserversessionnumset_services,sdplusbaseobjects.sdpwebserversessionnumset" %>

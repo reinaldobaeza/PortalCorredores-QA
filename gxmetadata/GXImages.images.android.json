@@ -1,0 +1,7 @@
+{ 
+    "Resources" : [ { 
+        "Language" : "Spanish",
+        "Theme" : "SmartDevicesPlusAndroid",
+        "ResourceFile" : "Images_Spanish_SmartDevicesPlusAndroid.json"
+    } ]
+}

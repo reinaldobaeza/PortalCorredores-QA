@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.ws_encrypt_services,ws_encrypt" %>

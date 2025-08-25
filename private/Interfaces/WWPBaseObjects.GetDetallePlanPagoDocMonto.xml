@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="e8c536b6-98d5-4ac9-9590-9719ac976afa" name="WWPBaseObjects.GetDetallePlanPagoDocMonto" description="Get Detalle Plan Pago Doc Monto" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTDetallePlanPagosGrafico2" description="SDTDetalle Plan Pagos Grafico2" collection="true">
+        <Fields>
+          <Field name="PlanPagoDocumentadoFolio" description="Documentación">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PlanPagoMonto" description="Plan Pago Monto">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>15</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.portalcorredoresdashboard_level_detail_services,portalcorredoresdashboard" %>

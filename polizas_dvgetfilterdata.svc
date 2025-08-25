@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.polizas_dvgetfilterdata_services,polizas_dvgetfilterdata" %>

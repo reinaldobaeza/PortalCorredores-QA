@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="9a2ec6f8-9e2b-4730-ab97-b651f57e2120">
+  <Table name="PCCorredor" />
+  <Table name="SecUserCorredor" />
+  <Table name="UserCustomizations" />
+</Dependencies>

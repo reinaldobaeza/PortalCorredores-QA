@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.prcobtenerrutcorredorxid_services,prcobtenerrutcorredorxid" %>

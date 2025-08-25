@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="PortalCorredoresDashboard_Level_Detail">
+  <Table name="PCParametro" />
+  <Table name="PCPoliza" />
+  <Table name="PCPlanPago" />
+  <Table name="TipoCambioDiario" />
+  <Table name="PCContratanteCorredor" />
+</Dependencies>

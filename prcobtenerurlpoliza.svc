@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.prcobtenerurlpoliza_services,prcobtenerurlpoliza" %>

@@ -1,0 +1,14 @@
+<GXLocations>
+	<GXLocation name="WS_Amazon"> 
+  		<Common> 
+   			<Host>integracion.unnio.cl</Host> 
+   			<Port>8085</Port> 
+   			<Secure>0</Secure>
+  		</Common> 
+  		<HTTP> 
+   			<BaseURL>/WS_Amazon/</BaseURL> 
+  		</HTTP>
+ 	</GXLocation>
+</GXLocations>
+
+

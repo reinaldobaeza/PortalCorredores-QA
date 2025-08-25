@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="PortalCorredorCuotas_Level_Detail">
+  <Table name="PCPlanPago" />
+  <Table name="PCCorredor" />
+  <Table name="PCParametro" />
+  <Table name="poliza_contabilizada" />
+</Dependencies>

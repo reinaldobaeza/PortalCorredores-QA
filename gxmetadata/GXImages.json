@@ -1,0 +1,30 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "CarmineIOS",
+        "ResourceFile" : "Images_Spanish_CarmineIOS.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "CarmineSD",
+        "ResourceFile" : "Images_Spanish_CarmineSD.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "CarmineAndroid",
+        "ResourceFile" : "Images_Spanish_CarmineAndroid.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "SmartDevicesPlusAndroid",
+        "ResourceFile" : "Images_Spanish_SmartDevicesPlusAndroid.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "SmartDevicesPlusTheme",
+        "ResourceFile" : "Images_Spanish_SmartDevicesPlusTheme.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "SmartDevicesPlusIOS",
+        "ResourceFile" : "Images_Spanish_SmartDevicesPlusIOS.json"
+    } ]
+}

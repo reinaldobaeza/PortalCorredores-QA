@@ -1,0 +1,482 @@
+{ 
+    "ResourcesLocation" : "Resources",
+    "Language" : "Spanish",
+    "Theme" : "CarmineAndroid",
+    "Images" : [ { 
+        "Name" : "LogoSMT",
+        "Type" : "I",
+        "Guid" : "95f3fa31-96e4-4b8e-96ae-fe1baab4ffab",
+        "Location" : "LogoSMT.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "headeruser",
+        "Type" : "I",
+        "Guid" : "a556a528-f876-41ea-b824-2069e3c1dd10",
+        "Location" : "headeruser.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "logologin1",
+        "Type" : "I",
+        "Guid" : "527bf3d8-06f6-4729-9ab5-78611dab271e",
+        "Location" : "logologin1.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "fondo_portal",
+        "Type" : "I",
+        "Guid" : "2c1d30f3-d8cf-4901-8433-dcfbb1b73514",
+        "Location" : "fondo_portal.jpg",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "Group",
+        "Type" : "I",
+        "Guid" : "429d6190-65aa-4257-86db-fce0370ff650",
+        "Location" : "CarmineAndroid/Group.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpressamplebacklogin",
+        "Type" : "I",
+        "Guid" : "235c53a5-34d7-4d09-bec9-35d673e7900a",
+        "Location" : "sdpressamplebacklogin.jpg",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreslogout",
+        "Type" : "I",
+        "Guid" : "44a8ce0b-eb8e-4334-ba42-ea14dadfa978",
+        "Location" : "sdpreslogout.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresbannersample4",
+        "Type" : "I",
+        "Guid" : "10f6b6b5-9c04-4d93-a140-8c647eda68b1",
+        "Location" : "sdpresbannersample4.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResSampleOption1",
+        "Type" : "I",
+        "Guid" : "a10d930e-7b00-4e92-9a62-39f52a4acc7c",
+        "Location" : "SDPResSampleOption1.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResUserAvatar",
+        "Type" : "I",
+        "Guid" : "6076c24a-44e9-4be7-a2c2-a0a13254238d",
+        "Location" : "SDPResUserAvatar.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResSampleOption7",
+        "Type" : "I",
+        "Guid" : "5388d7a2-f0cf-4fa0-9837-cf24f0e32fd1",
+        "Location" : "SDPResSampleOption7.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResSampleOption9",
+        "Type" : "I",
+        "Guid" : "fff40f36-3e75-4c19-9b2d-23b8cce32578",
+        "Location" : "SDPResSampleOption9.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresactionfavtrue",
+        "Type" : "I",
+        "Guid" : "9205b4a4-0bcc-4dd6-bdda-addd36d75953",
+        "Location" : "sdpresactionfavtrue.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresactionbookmarktrue",
+        "Type" : "I",
+        "Guid" : "8605a724-0f24-437d-8687-eb1a78e71d77",
+        "Location" : "sdpresactionbookmarktrue.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresactionshare",
+        "Type" : "I",
+        "Guid" : "f2a399cb-ae6f-40b2-957f-1ba31be1c394",
+        "Location" : "sdpresactionshare.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresmenubanner",
+        "Type" : "I",
+        "Guid" : "8e564d97-2753-4799-ab68-890b13e600be",
+        "Location" : "sdpresmenubanner.jpg",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeseparator",
+        "Type" : "I",
+        "Guid" : "4f252775-845d-495d-8924-67f0aeee5bc9",
+        "Location" : "sdpreshomeseparator.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomebusiness",
+        "Type" : "I",
+        "Guid" : "d3311a17-fb2d-440f-81c7-1deaac972205",
+        "Location" : "sdpreshomebusiness.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeoption2",
+        "Type" : "I",
+        "Guid" : "b15526e9-190a-4bf1-9981-db20d1fd3d20",
+        "Location" : "sdpreshomeoption2.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption3",
+        "Type" : "I",
+        "Guid" : "662ae0bc-3917-4375-a306-24f37f4de98a",
+        "Location" : "sdpreshomestatoption3.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpmdffieldrequired",
+        "Type" : "I",
+        "Guid" : "8fb9c76f-64da-4214-b992-0b06b279207f",
+        "Location" : "sdpmdffieldrequired.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpmdfcomboindicator",
+        "Type" : "I",
+        "Guid" : "ac1d59ad-a59c-4667-a3c4-fa31b1b6205b",
+        "Location" : "sdpmdfcomboindicator.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdprescheckdone",
+        "Type" : "I",
+        "Guid" : "105b9726-9c78-4c92-a45d-9266dc1cf7de",
+        "Location" : "sdprescheckdone.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresfollow",
+        "Type" : "I",
+        "Guid" : "0f954ab6-192e-4e17-9eaa-6b53049bcb18",
+        "Location" : "sdpresfollow.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresfollowing",
+        "Type" : "I",
+        "Guid" : "cc5a9264-3b58-472f-adec-8a8bd59627f6",
+        "Location" : "sdpresfollowing.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResUserCustomerService",
+        "Type" : "I",
+        "Guid" : "3f5329bb-1dd1-4928-868c-5a2e696d9515",
+        "Location" : "SDPResUserCustomerService.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResUserValueAdded",
+        "Type" : "I",
+        "Guid" : "b0a73906-5b91-45d7-9a05-9f31141fc874",
+        "Location" : "SDPResUserValueAdded.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResBarInfo",
+        "Type" : "I",
+        "Guid" : "d1c63ac9-3f26-481c-be68-ea0ea92c15c0",
+        "Location" : "SDPResBarInfo.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResBarSettings",
+        "Type" : "I",
+        "Guid" : "bfd4f7c0-4efd-4f0f-beb8-251d6f8eb3c3",
+        "Location" : "SDPResBarSettings.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdprescontentshow",
+        "Type" : "I",
+        "Guid" : "fa3882ca-9d23-4ea3-af04-e8e566847e34",
+        "Location" : "sdprescontentshow.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresinfolocation",
+        "Type" : "I",
+        "Guid" : "fecbf75d-8666-41da-81cd-4be65d328a8f",
+        "Location" : "sdpresinfolocation.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResInformation",
+        "Type" : "I",
+        "Guid" : "6a540cf1-e7b2-4fe0-92c7-5defd7d6e309",
+        "Location" : "SDPResInformation.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresinfotime",
+        "Type" : "I",
+        "Guid" : "90b7efdf-dc64-4b4f-be6b-f514b3225bae",
+        "Location" : "sdpresinfotime.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResListarrow",
+        "Type" : "I",
+        "Guid" : "16553528-09bd-45a4-ad93-69492a275e93",
+        "Location" : "SDPResListarrow.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresloginpassword",
+        "Type" : "I",
+        "Guid" : "ed28b323-f495-4ce9-85a1-d1c0e9cc852f",
+        "Location" : "sdpresloginpassword.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresloginuser",
+        "Type" : "I",
+        "Guid" : "a14ba714-922b-4ebc-ab39-0d27c97f743b",
+        "Location" : "sdpresloginuser.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResLogoSample",
+        "Type" : "I",
+        "Guid" : "002926c9-8ef2-4f05-94fc-0decb6ffefaf",
+        "Location" : "SDPResLogoSample.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResLogoSampleWhite",
+        "Type" : "I",
+        "Guid" : "363a0fe9-d6ac-45c8-8dea-4bb6b202a0a4",
+        "Location" : "SDPResLogoSampleWhite.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResMapPin",
+        "Type" : "I",
+        "Guid" : "fd5cdc27-309c-46b8-8d57-4f5086cb9c2a",
+        "Location" : "SDPResMapPin.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresmenubannertall",
+        "Type" : "I",
+        "Guid" : "a78744c0-08aa-40dd-b6e4-91380255d445",
+        "Location" : "sdpresmenubannertall.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResNewCustomer",
+        "Type" : "I",
+        "Guid" : "8b39add0-2af8-4e95-a5f0-1f77ac2f356f",
+        "Location" : "SDPResNewCustomer.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpresonepixeltransp",
+        "Type" : "I",
+        "Guid" : "cd8684f4-bef6-4c4a-85ae-7d7f8ac0d8bb",
+        "Location" : "sdpresonepixeltransp.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomecustomer",
+        "Type" : "I",
+        "Guid" : "4f788a82-1e85-4788-9ead-07b0db99181c",
+        "Location" : "sdpreshomecustomer.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomemgmnt",
+        "Type" : "I",
+        "Guid" : "0a752fd0-31af-424c-a4e0-17b8300f384f",
+        "Location" : "sdpreshomemgmnt.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomemore",
+        "Type" : "I",
+        "Guid" : "f46e5b5e-0b2f-47d5-8914-8fea3268c9a2",
+        "Location" : "sdpreshomemore.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeoption1",
+        "Type" : "I",
+        "Guid" : "32e3ffe7-fffd-4d48-a9c3-7919b24f535d",
+        "Location" : "sdpreshomeoption1.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeoption3",
+        "Type" : "I",
+        "Guid" : "29f3466d-3da7-4055-9967-45316cb03609",
+        "Location" : "sdpreshomeoption3.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeorders",
+        "Type" : "I",
+        "Guid" : "cc1e4112-4b4a-48a1-be08-4f4700d9747f",
+        "Location" : "sdpreshomeorders.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomeprof",
+        "Type" : "I",
+        "Guid" : "f151cd4f-fd27-4579-9ae5-3428896d356b",
+        "Location" : "sdpreshomeprof.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomesales",
+        "Type" : "I",
+        "Guid" : "c8f90629-f188-4476-afef-33f261a2d0c8",
+        "Location" : "sdpreshomesales.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption1",
+        "Type" : "I",
+        "Guid" : "c2e43ade-bfe3-4d35-b484-ad747ad8f25e",
+        "Location" : "sdpreshomestatoption1.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption2",
+        "Type" : "I",
+        "Guid" : "fbed17cc-a06b-48b0-941f-93476a701308",
+        "Location" : "sdpreshomestatoption2.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption4",
+        "Type" : "I",
+        "Guid" : "ba3de443-0b94-4308-b855-679cb1db0128",
+        "Location" : "sdpreshomestatoption4.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption5",
+        "Type" : "I",
+        "Guid" : "f094aa9a-34d6-4607-aee9-8e86d1279be3",
+        "Location" : "sdpreshomestatoption5.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption6",
+        "Type" : "I",
+        "Guid" : "844d4c63-d53c-48dd-8542-adc363b63990",
+        "Location" : "sdpreshomestatoption6.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption7",
+        "Type" : "I",
+        "Guid" : "5d961303-6572-4d75-bf6b-b9cfedbd20d8",
+        "Location" : "sdpreshomestatoption7.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatoption8",
+        "Type" : "I",
+        "Guid" : "a5caab38-7a87-42a8-9a10-dfb36d748bbe",
+        "Location" : "sdpreshomestatoption8.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatsmoney",
+        "Type" : "I",
+        "Guid" : "011fad1f-c166-4b3e-8fb7-717f195e3ac2",
+        "Location" : "sdpreshomestatsmoney.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpreshomestatssales",
+        "Type" : "I",
+        "Guid" : "6175ad91-c94d-4574-8b91-ea0d5afc4925",
+        "Location" : "sdpreshomestatssales.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption1",
+        "Type" : "I",
+        "Guid" : "2fbad78b-4ff3-414e-aff6-dee2d8b629f2",
+        "Location" : "SDPResTabOption1.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption1act",
+        "Type" : "I",
+        "Guid" : "ad3ced23-5ba5-492a-bacb-4be058ad9a22",
+        "Location" : "SDPResTabOption1act.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption2",
+        "Type" : "I",
+        "Guid" : "454cf014-e3cf-4eda-b134-c59aa4fb6221",
+        "Location" : "SDPResTabOption2.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption2act",
+        "Type" : "I",
+        "Guid" : "1c7151ff-10b8-43ca-904b-0dafea93dbec",
+        "Location" : "SDPResTabOption2act.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption3",
+        "Type" : "I",
+        "Guid" : "e293b79c-ad90-44f5-9838-d372c1051710",
+        "Location" : "SDPResTabOption3.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SDPResTabOption3act",
+        "Type" : "I",
+        "Guid" : "fab1da62-a285-4c21-817c-398b3dc53400",
+        "Location" : "SDPResTabOption3act.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpressampleappicon4",
+        "Type" : "I",
+        "Guid" : "dabe49cc-aff7-4793-8730-cee2f070782f",
+        "Location" : "sdpressampleappicon4.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "sdpressampleappicon4_ios",
+        "Type" : "I",
+        "Guid" : "82f358fa-656b-4262-98f9-938cc0d6c217",
+        "Location" : "sdpressampleappicon4_ios.jpg",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "magnifiying_glass",
+        "Type" : "I",
+        "Guid" : "8cbcc1a2-6fd4-4929-a243-7c09ffd60e34",
+        "Location" : "magnifiying_glass.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    } ]
+}

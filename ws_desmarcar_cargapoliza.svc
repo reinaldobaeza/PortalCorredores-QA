@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.ws_desmarcar_cargapoliza_services,ws_desmarcar_cargapoliza" %>

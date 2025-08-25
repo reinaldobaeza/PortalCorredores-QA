@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="639e3d0d-a9a7-41dc-a32c-752ea2478016">
+  <Table name="PCCuentaCorrienteContratante" />
+  <Table name="UserCustomizations" />
+</Dependencies>

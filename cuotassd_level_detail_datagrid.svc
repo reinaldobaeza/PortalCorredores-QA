@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.cuotassd_level_detail_datagrid_services,cuotassd" %>

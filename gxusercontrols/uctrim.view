@@ -1,0 +1,10 @@
+<script>
+$(document).ready(function () {
+    $('#{{gxTpr_Input}}{{Input}}').keyup(function () {
+		var pass = $('#{{gxTpr_Input}}{{Input}}').val();
+		//Fuente: https://www.iteramos.com/pregunta/35695/eliminar-todos-los-espacios-en-blanco-del-texto;
+		pass = pass.replace(/ /g,'');
+		$('#{{gxTpr_Input}}{{Input}}').val(pass);
+    })
+});
+</script>

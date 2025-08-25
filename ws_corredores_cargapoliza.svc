@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.ws_corredores_cargapoliza_services,ws_corredores_cargapoliza" %>

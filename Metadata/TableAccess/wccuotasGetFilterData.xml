@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="00788a7b-4c80-4e71-92e1-21f4be9ad113">
+  <Table name="PCPlanPago" />
+  <Table name="UserCustomizations" />
+</Dependencies>

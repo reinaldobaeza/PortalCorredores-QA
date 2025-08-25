@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="071586e5-7ad5-40d0-a227-ddc409c43d24">
+  <Table name="PCPolizaND" />
+  <Table name="UserCustomizations" />
+</Dependencies>

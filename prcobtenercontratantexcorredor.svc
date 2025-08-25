@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.prcobtenercontratantexcorredor_services,prcobtenercontratantexcorredor" %>
